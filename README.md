@@ -23,6 +23,7 @@ source venv/bin/activate
 
 # On Windows (Command Prompt):
 venv\Scripts\activate
+```
 
 ### Installation
 
